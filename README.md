@@ -1,24 +1,29 @@
-# README
+Enterprise Ape
+==============
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Powerful Software
+=================
 
-Things you may want to cover:
+### Welcome to the repository
 
-* Ruby version
+Feel free to access [my portfolio](http://portfolio.jordanhudgens.com).
 
-* System dependencies
+> ## Lorem ipsum dolor sit amet.
+>
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad necessitatibus ex laudantium nam cum doloremque praesentium consequuntur harum sint ipsam.
+>
+> Lorem ipsum dolor sit amet, *consectetur* adipisicing elit.
+>
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit. **Totam**, ad incidunt quos.
 
-* Configuration
+### Crazy good software
+* Rapid development
++ Tested
+- 24/7 support
 
-* Database creation
+### Reasons to choose us
+1. Price
+2. Precision
+3. Performance
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is what ruby code would look like `puts 'Helllo World`'
