@@ -26,4 +26,4 @@ Feel free to access [my portfolio](http://portfolio.jordanhudgens.com).
 2. Precision
 3. Performance
 
-This is what ruby code would look like `puts 'Helllo World`'
+This is what ruby code would look like `puts 'Hello World`'
